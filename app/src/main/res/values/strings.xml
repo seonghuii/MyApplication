@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_clicked_msg">My msg!</string>
+</resources>
